@@ -1,0 +1,6 @@
+[package]
+name = "transcriber"
+version = "0.1.0"
+authors = ["kamalasaurus <kamalasaurus@gmail.com>"]
+
+[dependencies]
